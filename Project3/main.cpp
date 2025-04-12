@@ -82,7 +82,7 @@ int main()
 	while (true)
 	{
 		std::cout << xua;
-		break;
+		break; 
 	}
 
 }
